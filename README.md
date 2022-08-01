@@ -1,7 +1,7 @@
 # AlphaFold-PETase-PDBs
 ### Model structures of PET-hydrolases with AlphaFold
 
-This repository contains AlphaFold model structures derived by the DeepMind team for active and putative PET-hydrolases that are presented in the paper:
+This repository contains AlphaFold model structures derived by the DeepMind team for the active and putative PET-hydrolases that are presented in the paper:
 
 Erickson E, Gado JE, Avilan L, *et al*. **Sourcing thermotolerant poly(ethylene terephthalate) hydrolase scaffolds from natural diversity**. *Nature Catalysis*, 2022. [Insert DOI Link](https://www.nature.com/natcatal/)
 
