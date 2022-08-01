@@ -3,7 +3,7 @@
 
 This repository contains AlphaFold model structures derived by the DeepMind team for active and putative PET-hydrolases that are presented in the paper:
 
-Erickson E, Gado JE, Avilan L, *et al*. **Sourcing thermotolerant poly(ethylene terephthalate) hydrolase scaffolds from natural diversity**. *Nature Catalysis*, 2022. [<Insert DOI Link>](https://www.nature.com/natcatal/)
+Erickson E, Gado JE, Avilan L, *et al*. **Sourcing thermotolerant poly(ethylene terephthalate) hydrolase scaffolds from natural diversity**. *Nature Catalysis*, 2022. [Insert DOI Link](https://www.nature.com/natcatal/)
 
 The enzymes are named according to their phylogenetic groupings (Group 1: 101, 102, etc., Group2: 201, 202, etc) and the structure files for each enzyme denote models derived with different random seed (PETcan101_0, PETcan102_1, etc.). Different random seeds to do result in signficantly different structures for compact folds, but there may be greater differences in awkward structures.
 
